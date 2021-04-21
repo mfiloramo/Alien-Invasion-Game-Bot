@@ -12,7 +12,7 @@ from alien import Alien
 from ai_bot import Bot
 from random import randint
 import sound_effects as se
-
+t = "t"
 
 class AlienInvasion:
     """Overall class to manage game assets and behavior."""
